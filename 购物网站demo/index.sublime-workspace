@@ -1,0 +1,878 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"anim",
+				"animate	.animate()"
+			],
+			[
+				"displ",
+				"display: none;	Property"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"mab",
+				"main-btn-white	(index.html)"
+			],
+			[
+				"two",
+				"two-only-sofa	(index.html)"
+			],
+			[
+				"two-se",
+				"two-search-wrap	(index.html)"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"sla",
+				"translateX()"
+			],
+			[
+				"scr",
+				"scrolling	Frame"
+			],
+			[
+				"t1la",
+				"t1iakufbxxxxctz4tl-824-274.png	w:824 h:274"
+			],
+			[
+				"tw",
+				"t1wsqsfgnaxxxmjxp6-470-50.png	w:470 h:50"
+			],
+			[
+				"side",
+				"slideDown	.slideDown()"
+			],
+			[
+				"img",
+				"img-01.gif	(index.html)"
+			],
+			[
+				"screen",
+				"screenHeight	(myPage.js)"
+			],
+			[
+				"scale",
+				"scale()	Canvas 2"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"two-s",
+				"two-sofa	(index.html)"
+			],
+			[
+				"two-",
+				"two-words	(index.html)"
+			],
+			[
+				"se",
+				"search-words.png	w:68 h:32"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"tran",
+				"translateX()"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"fu",
+				"fullpage	(fullpage.html)"
+			],
+			[
+				"my",
+				"mypage.js"
+			],
+			[
+				"post_",
+				"post_title"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"ali_",
+				"ali_post	(left.php)"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"mysql_",
+				"mysql_query	(mysql.class.php)"
+			],
+			[
+				"member",
+				"member_name"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"includ",
+				"include_once	(index.php)"
+			],
+			[
+				"incl",
+				"include_once	(slides.php)"
+			],
+			[
+				"sle",
+				"selected	Attr"
+			],
+			[
+				"up",
+				"upfile"
+			],
+			[
+				"chec",
+				"checksession.php"
+			],
+			[
+				"cmt",
+				"cmt_state	(comments.php)"
+			],
+			[
+				"inclu",
+				"include_once	(comments.php)"
+			],
+			[
+				"comm",
+				"date_create_from_format	PHPDate"
+			],
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"upl",
+				"uploads/"
+			],
+			[
+				"cate",
+				"category	(addpost.php)"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"ali",
+				"ali_cate"
+			],
+			[
+				"sel",
+				"selectOne	(posts.php)"
+			],
+			[
+				"user",
+				"user/"
+			],
+			[
+				"en",
+				"enctype	Attr"
+			],
+			[
+				"initial",
+				"initialFrameHeight	(addpost.php)"
+			],
+			[
+				"th",
+				"third-party/"
+			],
+			[
+				"um",
+				"umeditor.min.js"
+			],
+			[
+				"un",
+				"umeditor.config.js"
+			],
+			[
+				"fon",
+				"font/"
+			],
+			[
+				"ma",
+				"mathquill/"
+			],
+			[
+				"the",
+				"themes/"
+			],
+			[
+				"pro",
+				"profile.php	(nav.php)"
+			],
+			[
+				"yzm",
+				"yzm/"
+			],
+			[
+				"as",
+				"aside.php"
+			],
+			[
+				"i",
+				"include/"
+			],
+			[
+				"log",
+				"login	(login.html)"
+			],
+			[
+				"iclude",
+				"include_once"
+			],
+			[
+				"yz",
+				"yzm/"
+			],
+			[
+				"btn",
+				"btnSubmit"
+			],
+			[
+				"v",
+				"vrinda.ttf"
+			],
+			[
+				"imagecolor",
+				"imagecolorallocate($img,255,9,0	(yam.php)"
+			],
+			[
+				"par",
+				"parse()	Date"
+			],
+			[
+				"add",
+				"adduser.html"
+			],
+			[
+				"la",
+				"layer.js"
+			],
+			[
+				"aler",
+				"alert()	Window"
+			],
+			[
+				"layer",
+				"layer/"
+			],
+			[
+				"pa",
+				"pagesize"
+			],
+			[
+				"use",
+				"user_list"
+			],
+			[
+				"prin",
+				"print_r	PHP"
+			],
+			[
+				"t",
+				"tools/"
+			],
+			[
+				"endfor",
+				"endforeach"
+			],
+			[
+				"pri",
+				"print	PHPString"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"j",
+				"jquery-1.8.3.min.js"
+			],
+			[
+				"imagecopy",
+				"imagecopyresampled"
+			],
+			[
+				"disl",
+				"display"
+			],
+			[
+				"getEL",
+				"getElementById()	Document"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"XHR",
+				"XMLHttpRequest()"
+			],
+			[
+				"XM",
+				"XTMHTTP"
+			],
+			[
+				"XMLHttp",
+				"XMLHttpRequest()"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"mysql_sel",
+				"mysql_select_db"
+			],
+			[
+				"getEl",
+				"getElementById()	Document"
+			],
+			[
+				"cat",
+				"catch	(index.html)"
+			],
+			[
+				"XMLh",
+				"XMLHttpRequest()"
+			],
+			[
+				"Ac",
+				"ActiveXObject()"
+			],
+			[
+				"fun",
+				"function.php	(index.php)"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"mysql_e",
+				"mysql_error"
+			],
+			[
+				"class",
+				"classname"
+			],
+			[
+				"clas",
+				"classname"
+			],
+			[
+				"cla",
+				"classname	(add.php)"
+			],
+			[
+				"upd",
+				"update.php"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"charse",
+				"charset=utf-8"
+			],
+			[
+				"content",
+				"content-type:text	(2-delete.php)"
+			],
+			[
+				"var",
+				"varchar"
+			],
+			[
+				"Ser",
+				"ServerName	(httpd.conf)"
+			],
+			[
+				"VIR",
+				"VirtualHost	(httpd.conf)"
+			],
+			[
+				"V",
+				"VirtualHost	(httpd.conf)"
+			],
+			[
+				"min",
+				"minute"
+			],
+			[
+				"getM",
+				"getMinutes	(1.html)"
+			],
+			[
+				"hour",
+				"hours	(weibo.js)"
+			],
+			[
+				"getD",
+				"getDay()"
+			],
+			[
+				"D",
+				"Date	(1.html)"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"1",
+				"1.js"
+			],
+			[
+				"inn",
+				"innerHTML	Default"
+			],
+			[
+				"removec",
+				"removeChild()"
+			],
+			[
+				"calss",
+				"className"
+			],
+			[
+				"gete",
+				"getElementsByTagName	jsDOM"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"w",
+				"wrapBg.jpg	w:1400 h:600"
+			],
+			[
+				"sc",
+				"script	<script>"
+			],
+			[
+				"e",
+				"exam.js"
+			],
+			[
+				"app",
+				"appendChild	jsDOM"
+			],
+			[
+				"split",
+				"split()	String"
+			],
+			[
+				"func",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 147.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/购物网站/js/myPage.js",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/自己的购物网站/js/page.js",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/购物网站/index.html",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/购物网站/css/myPage.css",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/购物网站/购物网站-老师/js/myPage.js",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/购物网站/购物网站-老师/index.html",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/购物网站/购物网站-老师/css/myPage.css",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/插件/js/myPage.js",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/插件/css/jquery.fullPage.css",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/插件/css/myPage.css",
+		"/F/前端/前端每日下载视频/css3,html5/购物网站/css/myPage.css",
+		"/F/前端/前端每日下载视频/css3,html5/购物网站/css/base.css",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/购物网站/购物网站/index.html",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/购物网站/购物网站/js/myPage.js",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/购物网站/购物网站/css/myPage.css",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/1、插件的使用/mypage.js",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/1、插件的使用/mypage.min.js",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/1、插件的使用/mypage.css",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/1、插件的使用/jquer.css",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/插件/css/base.css",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/插件的使用",
+		"/F/前端/前端每日下载视频/css3,html5/css3.list-1/1.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/index/list.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/index/left.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/index/inde.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/index/detail.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-8/show-6/alishow/detail.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-8/show-6/alishow/list.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-8/show-6/alishow/left.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-8/show-6/alishow/index.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/index/index.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-8/show-6/alishow/admin/index.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-8/show-6/alishow/admin/login.html",
+		"/F/前端/前端飞秋下载接入/1.php",
+		"/F/前端/前端飞秋下载接入/2.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/index/mysql.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/index/ajax.php",
+		"/F/phpstudy/WWW/alibaixiu/list.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/other/slides.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/post1/posts.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/other/addsilide.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-7/show-5/alishow/admin/other/changestate.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/other/changestate.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-7/show-5/alishow/admin/other/slides.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/post/addpost_deal.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-7/show-5/alishow/admin/other/addslide.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/comments/modifystate.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/comments/allowCmt.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/comments/comments.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/post/delpost.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/comments.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/comments",
+		"/F/前端/前端每日下载视频/ajax/ajax-6/show-4/alishow/admin/post/modifypost.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/post/posts.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/post/editpost.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/post/modifypost.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-6/show-4/alishow/admin/post/editpost.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/post/addpost.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-6/show-4/alishow/admin/post/posts.php",
+		"/F/phpstudy/WWW/alibaixiu/pathinfo.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-6/show-4/alishow/admin/post/addpost_deal.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-6/show-4/alishow/admin/post/addpost.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/post-add.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/cate/addcate.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/checksession.php",
+		"/F/phpstudy/WWW/alibaixiu/test.html",
+		"/F/phpstudy/WWW/alibaixiu/assets/js/Ueditor/test.html",
+		"/F/前端/前端每日下载视频/ajax/ajax-6/show-4/alishow/test.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/password-reset.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/include/aside.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/yzm/checkLogin.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/profile.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/modifypwd.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-5/show-3/admin/user/modifypwd.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-5/show-3/admin/user/password-reset.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-5/show-3/admin/checksession.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-5/show-3/admin/user/profile.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-5/show-3/admin/include/aside.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-5/show-3/admin/include/nav.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-5/show-3/admin/user/users.php",
+		"/F/前端/前端每日下载视频/ajax/ajax-5/show-3/admin/index.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/users.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/user.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/cate/categories.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/index.html",
+		"/F/前端/前端每日下载视频/ajax/ajax-5/show-3/admin/checkLogin.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/yzm/err.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/cate/editcate.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/include/nav.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/user (2).php",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/logout.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/adduser_deal.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/cate/delcate.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/profile.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/login.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/include/logout.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/yzm/login.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/yzm/verify.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/adduser.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/yzm/nav.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/yzm/aside.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/yzm/yam.php",
+		"/F/前端/前端飞秋下载接入/守望先锋项目/刘翰青/home-lh.html",
+		"/F/前端/前端飞秋下载接入/守望先锋项目/cyjs/js/index.js",
+		"/F/phpstudy/WWW/alibaixiu/admin/tools/mysql.conf.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/deluser.php",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.171.3174/adduser.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/users.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.194.2319/users.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.194.2318/users.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.171.3173/adduser.html",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.171.3172/adduser_deal.php",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.171.3171/users.php",
+		"/C/Users/Administrator/AppData/Local/Temp/HZ$D.868.4377/users.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/cate/layer.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/cate/modifycate.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/cate/add_deal.php",
+		"/F/phpstudy/WWW/alibaixiu/1.html",
+		"/F/前端/前端飞秋下载接入/homework.txt",
+		"/F/前端/前端每日下载视频/陈滔的代码/JS/js每日必做/lay/2..html",
+		"/F/phpstudy/WWW/alibaixiu/admin/user/1.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/adduser.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/lsyer.html",
+		"/F/phpstudy/WWW/alibaixiu/admin/cate/delcate.php ",
+		"/F/phpstudy/WWW/alibaixiu/admin/posts.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/categories.php",
+		"/F/phpstudy/WWW/alibaixiu/admin/aside.php",
+		"/F/phpstudy/WWW/alibaixiu/pages/admin/include/categories.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"two",
+			"fp-enabled",
+			"swipe",
+			"main",
+			"swipe",
+			"avatar",
+			"ava",
+			"body",
+			"aslide",
+			"tdState",
+			"created",
+			"nike",
+			"nickname",
+			"nickamen",
+			"nickname",
+			"nick",
+			"niackanme",
+			"nick",
+			"nickname",
+			"nick",
+			"addBtn",
+			"add",
+			"aside",
+			"布头",
+			"Content-type",
+			"scirpt",
+			"}'>$",
+			"../",
+			"aside",
+			"include",
+			"include conf",
+			"virtual",
+			"goodslist_wrap",
+			"select",
+			"	if(xhr.readyState == 4){\n			// alert(xhr.responseText);\n			document.getElementById('d').innerHTML = xhr.responseText;\n		}\n	}",
+			"';\n",
+			"include",
+			"saveName",
+			"create table goods(\ngoods_id int primary key auto_increment,\ngoods_name varchar(40) not null unique key,\nprice decimal(6,1) not null default 100,\ncat varchar(20) ,\nsales int not null default 100,\nrecommend int not  null default 200 comment \"推荐数\",\nis_post_free tinyint not null default 1 comment \"1包邮 0到付\",\npic_path varchar(200) comment \"图片保存路径\"\n);",
+			"mbstring",
+			"mbstring.dll",
+			"mbstring",
+			"time",
+			"extension",
+			"httpd-v",
+			"httpd-vhost",
+			"mysql",
+			"PRC",
+			">\n",
+			"});",
+			"i",
+			"        }",
+			"；\n",
+			"function\n",
+			";\n",
+			"function\n",
+			"\";\n",
+			"}\n",
+			"minute",
+			">\n",
+			"header结束",
+			");\n",
+			"Student",
+			"function",
+			");\n",
+			" var a = 18;\n    fn2();\n    function fn2(){\n      var b = 9;\n      console.log(a);\n      console.log(b);\n    }",
+			"tab_size",
+			"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\" />\n    <title>Document</title>\n    <style type=\"text/css\">\n        img{\n            width: 100px;\n            height: 100px;\n            transition:all 2s;\n\n        }\n        img:hover{\n             transform: rotate(180deg) scale(2.0);\n        }\n\n    </style>\n</head>\n<body>\n    <img src=\"../car.jpg\" alt=\"\">\n</body>\n</html>",
+			"w",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,310 @@
+/*
+* @Author: Marte
+* @Date:   2017-10-10 17:26:46
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-10-12 19:55:49
+*/
+.section1 {
+    background: #fadd67 url(../images/t1fpyqfltdxxaiulhh-990-600.png) no-repeat center bottom;
+}
+.section2 {
+    background: #84a2d4 url(../images/t1zdgpfi8exxca6rfn-2000-600.png) no-repeat center bottom;
+}
+.section3 {
+    background: #ef674d;
+}
+.section4 {
+    background: #fed url(../images/t1iresfnxaxxca6rfn-2000-600.png) no-repeat center bottom;
+    z-index:5;
+}
+.section5{
+    background: #d04759 url(../images/t1yisqfa4exxa3gmkg-2000-1500.png);
+}
+.section6 {
+    background: #84d9ed url(../images/t1dvj.fn0gxxb0_fua-2500-600.png) no-repeat 25% bottom;
+}
+.section7{
+    background: #8ac060 url(../images/t1wf1tfctaxxa3gmkg-2000-1500.png) no-repeat center bottom;
+}
+.section8{
+        background: url(../images/ksgw.png);
+}
+.go{
+    position: fixed;
+    z-index: 999;
+    right: 10%;
+    top: 5%;
+    width: 101px;
+    height: 101px;
+}
+.next{
+    position: fixed;
+    bottom:10px;
+    right: 0;
+    z-index: 999;
+    animation:next 2s infinite;
+}
+@keyframes next{
+    50%{
+        bottom:50px;
+    }
+}
+.middle{
+    position: absolute;
+    left: 50%;
+    transform:translateX(-50%);
+}
+.one-fly{
+    bottom: 500px;
+    margin-left: 100px;
+    animation: fly 3s infinite;
+}
+@keyframes fly{
+    50% {
+        bottom: 550px;
+    }
+}
+.one-sofa{
+    bottom: 340px;
+    margin-left: -145px;
+    animation: sofa 2s infinite;
+}
+@keyframes sofa{
+    50% {
+        bottom: 360px;
+    }
+}
+.one-tips {
+    bottom: 150px;
+}
+/* 第一个界面结束 */
+.two-words{
+    position: absolute;
+    left: 105px;
+    top: 4px;
+}
+.two-search-wrap{
+   /*  width: 222px;
+    height: 45px; */
+    margin-left: 500px;
+    display: none;
+}
+.two-search-copy{
+    display: none;
+}
+.cover,.two-only-sofa{
+    width: 106px;
+    height: 106px;
+    background-color: #fff;
+    bottom: 327px;
+    margin-left: -57px;
+    display: none;
+    z-index: 999;
+
+}
+.two-sofa {
+    bottom: 215px;
+    display: none;
+    width: 441px;
+    height: 218px;
+}
+/* 第二层 */
+.main-pic{
+        position: absolute;
+}
+.main {
+    width: 990px;
+    height: 600px;
+    background:  url(../images/main.png) bottom center no-repeat;
+    bottom: 0;
+}
+.main-size {
+    bottom: 160px;
+    right: 157px;
+}
+.main-btn {
+    bottom: 62px;
+    right: 237px;
+}
+.main-size-white,
+.main-btn-white {
+    display: none;
+}
+.three-rotate-sofa{
+    margin-left: -116px;
+    bottom: 256px;
+    display: none;
+    z-index: 998;
+}
+/* .main-size-white,
+.main-btn-white {
+    display: none;
+} */
+/* 3结束 */
+.four-car{
+    bottom: 30px;
+    margin-left: -200px;
+    z-index: 999;
+}
+.four-words{
+    z-index: 998;
+    top: 150px;
+}
+.four-cloud{
+    bottom: 500px;
+    left: 30%;
+    animation:cloud 15s infinite
+}
+@keyframes cloud{
+    50%{
+        left:60%;
+    }
+}
+.four-words-color {
+    display: none;
+}
+.four-rotate-sofa {
+    margin-left: -145px;
+    bottom: 240px;
+    display: none;
+}
+.four-car-wrap{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 999;
+}
+.four-add {
+    bottom: 180px;
+    display: none;
+}
+.four-txt {
+    bottom: 340px;
+    display: none;
+}
+/* 第5平开始*/
+.five-words {
+    bottom: 520px;
+    margin-left: -250px;
+    display:none;
+}
+.five-order {
+    bottom: 291px;
+    margin-left: -280px;
+}
+.five-card {
+    bottom: 200px;
+    margin-left: -250px;
+    z-index:3;
+}
+.five-sofa {
+    bottom: 100%;
+    z-index:4;
+    display:none;
+    z-index:2;
+}
+.five-mouse {
+    bottom: 200px;
+    margin-left: 250px;
+    // display:none;
+    // z-index:4
+}
+.five-hand {
+    bottom: -375px;
+    margin-left: 210px;
+    display:none;
+    z-index:6
+}
+.five-mouse-active{
+    display: none;
+}
+/*6开始*/
+.six-car{
+    bottom:0;
+    margin-left:-150px;
+}
+.six-box{
+    margin-left:-500px;
+    bottom:450px;
+}
+.six-add {
+    bottom: 100px;
+    margin-left: -50px;
+    display: none;
+}
+.six-man,
+.six-woman,
+.six-get,
+.six-door {
+    position: absolute;
+}
+.six-door {
+    bottom: 116px;
+    right: 282px;
+    display: none;
+}
+.six-woman {
+    bottom: 116px;
+    right: 282px;
+    display: none;
+}
+.six-man {
+    /* 让男人先以居中为基准点，当到达了之后，在以right为基准点 */
+    right : 50%;
+    transform : translateX(50%);
+    margin-right: 117px;
+    display: none;
+    width: 252;
+    bottom: 0;
+}
+.six-get {
+    right: 400px;
+    bottom: 415px;
+    display: none;
+}
+.six-words {
+    bottom: 500px;
+    margin-left: -600px;
+    display: none;
+}
+.six-cloud {
+    bottom: 536px;
+    position: absolute;
+    left: 30%;
+    animation: sixCloud 10s infinite;
+}
+@keyframes sixCloud {
+    50% {
+        left: 0;
+    }
+}
+/*第7章开始*/
+.seven-star{
+
+      /* margin-left: 209px; */
+    /* margin-top: -135px; */
+    background-size: 78px;
+    width: 100px;
+    display: none;
+    bottom: 442px;
+    margin-left: -247px;
+
+}
+.seven-show{
+    width: 200px;
+    bottom: 51px;
+    margin-left:400px;
+}
+/*第8章开始*/
+.eight-a{
+    bottom:350px;
+}
+.eight-btn2{
+    display:none;
+}
+.eight-again{
+       bottom: 400px;
+    margin-left: 400px;
+}
